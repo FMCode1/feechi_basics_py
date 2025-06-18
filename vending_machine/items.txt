@@ -1,0 +1,9 @@
+items10: KitKat, Snickers, Mars
+items11: Twix, Bounty
+items12: Gatorade, Powerade
+items13: Red Bull, Monster, Rockstar
+items14: Lay's, Ruffles, Cheetos
+items15: Oreos, Chips Ahoy
+items16: Popcorn, Nachos
+items17: Milky Way, Hershey's
+items18: Ice Tea, Lemonade, Apple Juice
